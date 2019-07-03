@@ -1,0 +1,19 @@
+dependencies {
+    // Gson
+    implementation 'com.google.code.gson:gson:2.8.2'
+
+    // RxJava
+    implementation 'io.reactivex.rxjava2:rxjava:2.1.12'
+    
+    // Retrofit
+    implementation 'com.squareup.retrofit2:retrofit:2.4.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.4.0'
+    implementation 'com.squareup.retrofit2:adapter-rxjava2:2.4.0'
+
+    // Bouncy Castle
+    implementation 'org.bouncycastle:bcprov-jdk15on:1.60'
+
+    // Testing
+    testCompileOnly 'junit:junit:4.12'
+    testRuntimeOnly 'org.junit.vintage:junit-vintage-engine:5.1.0'
+}
