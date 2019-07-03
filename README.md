@@ -1,6 +1,6 @@
 # burstkit4j
 
-Burstcoin Java Development Framework
+Boom Java Development Framework
 
 [![Build Status](https://travis-ci.com/burst-apps-team/burstkit4j.svg?branch=master)](https://travis-ci.com/burst-apps-team/burstkit4j)
 [![](https://jitpack.io/v/burst-apps-team/burstkit4j.svg)](https://jitpack.io/#burst-apps-team/burstkit4j)
